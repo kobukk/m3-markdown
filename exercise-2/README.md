@@ -5,3 +5,9 @@ As described in [module-4](https://github.com/INFO-201/m4-git-intro), you should
 In the space below, make a three column table of the current courses you are taking, with separate columns for course number (in **bold**), course title (in _italics_), and instructor.
 
 See `complete` branch for answers.
+
+| Class | Course Number | classroom  |   |   
+|-------|---------------|------------|---|
+| Info  | 201           | JOHNSON    |   |   
+| MGMT  | 430           | DEMPSEY    |   |   
+| IS    | 451           | PACCAR     |   |   
