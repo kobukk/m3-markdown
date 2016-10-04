@@ -7,5 +7,5 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 See `complete` branch for an example.
 
 > favorite Quote: 
->The more you praise and celebrate your life, the more there is in life to celebrate. 
+The more you praise and celebrate your life, the more there is in life to celebrate. 
 Read more at: http://www.brainyquote.com/quotes/authors/o/oprah_winfrey.html
