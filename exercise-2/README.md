@@ -8,6 +8,6 @@ See `complete` branch for answers.
 
 | Class | Course Number | classroom  |   |   
 |-------|---------------|------------|---|
-| *Info*  | '201 '          | JOHNSON    |   |   
-| *MGMT*  | '430 '          | DEMPSEY    |   |   
-| *IS*    | '451'           | PACCAR     |   |   
+| *Info*  | **201**          | JOHNSON    |   |   
+| *MGMT*  | **430**          | DEMPSEY    |   |   
+| *IS*    | **451**          | PACCAR     |   |   
