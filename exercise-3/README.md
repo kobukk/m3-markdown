@@ -16,7 +16,7 @@ See `complete` branch for answers.
   1. first bullet 
   2. second bullet 
   3. third bullet 
-+ Rugby World Cup 2015
-  1. New Zealand
-  2. Australia
-  3. South Africa
++ It allows you to move directories
+  1. cd Documents takes you to your documents file (if that is in your wd)
+  2. cd .. will take you to the parent directory 
+  
