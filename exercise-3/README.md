@@ -10,12 +10,12 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 
 See `complete` branch for answers.
 
-#### H4 
+###### This is a Header about the command cd
 
-+ World Cup 2014
-  1. Germany
-  2. Argentina
-  3. Netherlands
++ Here is a nested list
+  1. first bullet 
+  2. second bullet 
+  3. third bullet 
 + Rugby World Cup 2015
   1. New Zealand
   2. Australia
