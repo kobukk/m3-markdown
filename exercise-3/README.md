@@ -10,7 +10,7 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 
 See `complete` branch for answers.
 
-#####<This is a Header about the command cd>
+#This is a Header about the command cd
 
 + Here is a nested list
   1. first bullet 
